@@ -34,7 +34,8 @@ Step 1: Assess suppporting material
 
 Step 2:  Conduct the audit
 
-[Botium Toys Controls and Compliance Checklist.pdf](https://github.com/user-attachments/files/16319063/Botium.Toys.Controls.and.Compliance.Checklist.pdf)
+[Botium Toys Controls and Compliance Checklist .pdf](https://github.com/user-attachments/files/16319100/Botium.Toys.Controls.and.Compliance.Checklist.pdf)
+
 
 
 *Ref 4 Audit attempt
@@ -45,8 +46,8 @@ Step 2:  Conduct the audit
 
 Step 3: Assess the audit
 
-[Botium Toys Controls and Compliance Checklist.pdf](https://github.com/user-attachments/files/16319070/Botium.Toys.Controls.and.Compliance.Checklist.pdf)
 
+[Controls and compliance checklist exemplar.pdf](https://github.com/user-attachments/files/16319101/Controls.and.compliance.checklist.exemplar.pdf)
 
 *Ref 5 Model audit example
 
