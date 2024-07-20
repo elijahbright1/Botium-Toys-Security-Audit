@@ -8,7 +8,7 @@ Review the IT manager’s scope, goals, and risk assessment report. Then, perfor
 
 - properly conduct a security audit
 - investigate potiential threats, risk, and vulnerablities
-- improve secuirty controls and processes to align with state, national, global regulations 
+- improve secuirty controls and processes to align with state, national, global compliance regulations 
 
 ### Tools Used
 - Microsoft Word
