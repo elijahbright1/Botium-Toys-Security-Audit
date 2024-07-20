@@ -17,16 +17,21 @@ Review the IT manager’s scope, goals, and risk assessment report. Then, perfor
 
 Step 1: Assess suppporting material
 
+<img width="889" alt="Screenshot 2024-07-19 at 11 21 49 PM" src="https://github.com/user-attachments/assets/b905c661-3505-4efb-88ed-aeac68ca0197">
 
 
-*Ref 1: 
+*Ref 1 Scenario
+
+[Botium Toys: Scope, goals, and risk assessment report - Google Docs.pdf](https://github.com/user-attachments/files/16319106/Botium.Toys.Scope.goals.and.risk.assessment.report.-.Google.Docs.pdf)
 
 
+*Ref 2 Botium Toys scope, goals, and risk assessment report
 
-*Ref 2 I
+
+[Control categories.pdf](https://github.com/user-attachments/files/16319115/Control.categories.pdf)
 
 
-*Ref 3
+*Ref 3 Control categories
 
 
 
